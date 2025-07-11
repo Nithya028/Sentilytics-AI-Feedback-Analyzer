@@ -1,1 +1,1 @@
-# FeedbackLens-AI-Powered-Customer-Review-Analyzer
+Sentilytics: AI-powered engine for analyzing customer feedback
